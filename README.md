@@ -25,4 +25,4 @@ file order: (-) = folder  (+) = file
 	--shared
 	     + color.py
 	     + point.py
-	++ main.py
+	 + main.py
