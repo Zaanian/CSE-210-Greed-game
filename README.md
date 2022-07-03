@@ -8,18 +8,18 @@ The game continues until the player closes the window.
 requirements: You need Python3 and Raylib 
 
 file order: (-) = folder  (+) = file
-greed game
--game
+-greed game
+    -game
 	-casting
-		actor.py
-		gems.py
-		cast.py
+	     actor.py
+	     gems.py
+	     cast.py
 	-director
-		director.py
+	     director.py
 	-services
-		keyboard_services.py
-		video_services
+	     keyboard_services.py
+	     video_services
 	-shared
-		color.py
-		point.py
+	     color.py
+	     point.py
 	+ main.py
