@@ -26,3 +26,7 @@ file order: (-) = folder  (+) = file
 	     + color.py
 	     + point.py
 	 + main.py
+
+Author: Stephen Stauffer
+
+Email: Elderstephenstauffer@gmail.com
