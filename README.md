@@ -8,6 +8,7 @@ The game continues until the player closes the window.
 requirements: You need Python3 and Raylib 
 
 file order: (-) = folder  (+) = file
+
 -greed game
 
     -game
