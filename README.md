@@ -13,16 +13,16 @@ file order: (-) = folder  (+) = file
 
     -game
     
-	-casting
+	--casting
 	     + actor.py
 	     + gems.py
 	     + cast.py
-	-director
+	--director
 	     + director.py
-	-services
+	--services
 	     + keyboard_services.py
 	     + video_services
-	-shared
+	--shared
 	     + color.py
 	     + point.py
-	+ main.py
+	++ main.py
